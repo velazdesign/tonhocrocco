@@ -1,0 +1,2 @@
+User-agent: * Allow: / 
+Sitemap: https://tonhocrocco.pages.dev/sitemap.xml 
